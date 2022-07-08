@@ -1,0 +1,22 @@
+div{
+	width: 500px;
+	border: 10px solid blue;
+	margin-left: 25%;
+	padding: 40px;
+	background-color: navajowhite;
+	
+}
+form{
+	text-align: center;
+}
+input{
+	margin-left: 50px;
+}
+
+
+
+button{
+	color: red;
+	
+	
+}
